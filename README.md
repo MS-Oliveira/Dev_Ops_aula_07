@@ -27,7 +27,10 @@ $ source ./venv/Scripts/activate
 $ pip install sqlite-utils  
 $ pip freeze > requirements.txt
 
-Fonte: material de apoio / Faculdade Impacta - Prof. Thiago Kuma.  
+Fonte: material de apoio Professor Thiago Kuma  
+
+[![impacta.png](https://i.postimg.cc/0QVbLK8g/impacta.png)](https://postimg.cc/FdJrSRdG)  
+
 -------------------------------------------------------------
 
 Mais informações : https://virtualenv.pypa.io/en/latest/
