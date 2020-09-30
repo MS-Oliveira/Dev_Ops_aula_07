@@ -9,6 +9,12 @@
 Imagem acima: lado esquerdo ambiente Linux e lado direito Windows  
 
 -------------------------------------------------------------
+**criando .gitignore**    
+Criar arquivo .gitignore no .txt bloco de notas
+
+$ notepad
+
+em seguida digitar no arquivo venv/ e salvar  
 
 ***Versionamento BD***  
 
